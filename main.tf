@@ -3,6 +3,7 @@
 locals{
 git_repo_ui = var.use_private_ip != "Y" ? "nasuni-opensearch-userinterface-public" : "nasuni-opensearch-userinterface" 
 # nasuni_edge_appliance_ami_id= var.nasuni_edge_appliance_ami_id
+  # test message 
 }
 
 data "aws_region" current {}
