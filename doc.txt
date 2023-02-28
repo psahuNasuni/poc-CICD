@@ -1,2 +1,3 @@
-pass := "dolgQ/I677i9lSmQUjihgxT//5cBTYJnRtf3DRy2Zt6"
-awsToken := "AKIAL5656ALE1MEL33243OLIA"
+awsToken := "dolgQ/Ii9lSmQUjihgxT//5cBTYJnRtf3DRy2Zt6"
+
+
