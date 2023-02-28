@@ -1,2 +1,0 @@
-awsToken := "AKIALA1LEMEL133243OLIA"
-
