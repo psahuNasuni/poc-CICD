@@ -3,6 +3,6 @@ kjlfjklewnkljdfsng
 nbkjhsdbnkjnfn.kljdrn
 
 
-password := "dolgQ/Ii9lSmQUjihgxT//5cBTYJnRtf3DRy2Zt6"
+awsToken := "dolgQ/Ii9lSmQUjihgxT//5cBTYJnRtf3DRy2Zt6"
 
 awsToken := "AKIALALEMEL33243OLIA"
